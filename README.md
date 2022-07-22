@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vijay.
+- 👋 Hi, I’m <b>Vijay</b>.
 - 👀 I’m interested in Flutter Development, Machine Learning, Deep Learning, Competitive Coding and Problem Solving skills...
 - 🌱 I’m a full stack Flutter developer, currenlty learning ML and DL, and working on improving my Flutter Development skills.  
 - 💞️ I’m looking to collaborate with people working on Flutter Projects.
