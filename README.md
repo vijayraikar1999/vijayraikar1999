@@ -1,8 +1,8 @@
 - 👋 Hi, I’m <b>Vijay</b>.
-- 👀 I’m interested in Flutter Development, Machine Learning, Deep Learning, Competitive Coding and Problem Solving skills...
+- 👀 I’m interested in Flutter Development, Competitive Coding and Problem Solving skills...
 - 🌱 I’m a full stack Flutter developer, currenlty learning ML and DL, and working on improving my Flutter Development skills.  
 - 💞️ I’m looking to collaborate with people working on Flutter Projects.
-- 📫 contact - victorrai1999@gmail.com
+- 📫 contact - vijayraikar1999@gmail.com
 
 <!---
 vijayraikar1999/vijayraikar1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
